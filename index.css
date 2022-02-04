@@ -1,0 +1,23 @@
+.image-1{
+    display: flex;
+    flex-direction: row;
+}
+.hiii
+{
+    display:inline;
+    flex-direction: column;
+}
+
+.body{
+    
+    display: flex;
+    gap: 32PX;
+    margin-top: 15px;
+}
+.text{
+    /* display: list-item; */
+}
+image{
+    float: right;
+}
+
